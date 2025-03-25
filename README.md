@@ -8,4 +8,7 @@
 
 ## nagłówek 4
 
+# zmiany
+
+
 # instrukcja obslugi
